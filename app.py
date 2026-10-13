@@ -125,5 +125,5 @@ plt.close(fig)
 
 # 9. THONG TIN NGUOI TAO
 st.divider()
-st.caption("Nguoi tao: [Dien ho ten cua ban] | "
-           "MSSV: [Dien ma so sinh vien cua ban]")
+st.caption("Nguoi tao: [HOÀNG NGỌC BÍCH] | "
+           "MSSV: [002308007779]")
